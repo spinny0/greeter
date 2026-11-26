@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "greeter": [
+      {
+        "version": "0.1.0",
+        "source": "https://github.com/spinny0/greeter/releases/download/v0.1.0/greeter-0.1.0.zip",
+        "sha256": "4f2d530e79265e870a8a550bdfb3ac4f1b7d56f10ff1a5e0ac2966daddaa55d9",
+        "entry": "init.fe"
+      }
+    ]
+  }
+}
